@@ -63,7 +63,7 @@ require(["js/qlik"], function (qlik) {
 
                 /*
                 google.maps.event.addListener(marker, 'click', function () {
-                    app.field("INDIRIZZO").toggleSelect(this.title, false);
+                    app.field("[Your Filed]").toggleSelect(this.title, false);
                 });
                 */
 
